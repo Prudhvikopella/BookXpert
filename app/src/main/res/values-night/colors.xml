@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#ffffff</color>
+    <color name="white">#000000</color>
+
+<!--    grey-->
+    <color name="light_gray">#D3D3D3</color>
+    <color name="medium_gray">#A9A9A9</color>
+    <color name="dark_gray">#808080</color>
+    <color name="charcoal_gray">#4F4F4F</color>
+
+<!--    clickable colors-->
+    <color name="clickable_blue">#007AFF</color>
+    <color name="clickable_teal">#009688</color>
+
+<!--    errror colors-->
+    <color name="errorColor">#B3261E</color> <!-- Primary error color -->
+    <color name="errorContainer">#FCD8D4</color> <!-- Error background -->
+    <color name="onError">#FFFFFF</color> <!-- Text on error -->
+    <color name="onErrorContainer">#601410</color> <!-- Text inside error container -->
+    <color name="AccountNameColor">#FFFFFFFF</color> <!-- Text inside error container -->
+    <color name="toolBarBg">#00000000</color>
+    <color name="toolBarTitleColor">#FFFFFF</color>
+
+
+</resources>

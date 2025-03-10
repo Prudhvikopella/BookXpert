@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_pdf"
+        android:icon="@drawable/ic_pdf"
+        android:title="check PDF" />
+
+    <item
+        android:id="@+id/nav_image"
+        android:icon="@drawable/ic_image"
+        android:title="check image" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_close"
+        android:title="close app" />
+
+</menu>
